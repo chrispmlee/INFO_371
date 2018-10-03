@@ -1,0 +1,43 @@
+Method Comparison (40 pts)
+
+Due: May 17 at 11:59 pm
+
+So far this quarter, we have discussed several common algorithms for learning from data (e.g., linear regression, logistic regression, k-nearest neighbors, naive bayes, decision trees, etc). You will choose two of these algorithms (extra credit for an additional algorithm; see grading rubric below) and build an email spam detector. Not all algorithms work well for this kind of problem, but that is ok. The goal of the assignment is to figure out the strengths and weaknesses of the different approaches. You will be graded primarily on your ability to articulate differences in the methods.
+
+You will use your own email for this exercise. You will not turn in your own email. I do not want to see your email. You will only turn in aggregate results, summaries, and assessments of performance. You can use your regular email and your junk email box as training data. The amount of data you use is up to you.
+
+This is the one open assignment during the quarter. I am giving you a lot of leeway for picking algorithms, data, experimental setup, code libraries, performance metrics, etc. You don’t need to recode algorithms. You can use existing functions in python. This assignment is different from the other 4 assignments in class where I either gave you the algorithm to replicate or step-by-step instructions in a Jupyter notebook. In this assignment, let your creativity run free. If you have questions are what is and what is not allowed, feel free to talk with me. I will allow a lot of flexibility on the assignment.
+
+The learning objectives are to:
+
+1. Set up a machine learning problem on your own
+
+2. Execute common ML algorithms and report performance metrics
+
+3. Compare the strengths and weaknesses of the different algorithms
+
+4. Present your case about which algorithms work best for a given problem
+
+You are allowed 4-5 pgs to make your case. Think of this as a report versus a coding assignment (although you will be doing plenty of coding). Image you are bein asked by your boss to build a spam detector using ML. You deliverable is a report on which approach your company should use for detecting email spam. You can include code snippets in your text, but it should be a small percentage of the overall report. I want to see your comparisons with performance metric (e.g., ROC, AUC, etc). I want to understand clearly how you set up the problem for each algorithm. I want to see how you modified the data and justifications for your decisions. Your boss is going to invest millions in a new spam detector and needs to know which algorithm worked best, using your report. 
+
+You are allowed to work on your own or to work with one other student. If you work with another student, you will turn in one report for the two of you. Let Anuj know that you are working together so he can create a dual submission on canvas. You are allowed to reference resources on the web. However, I expect you to write your own code, run the code on your own data, and write your own report. I don’t want to see work that is already presented on the web. You can include graphs and tables in your report. I will leave the formatting and word count up to you. I am less concerned about these variables and more on how clearly you articulate your comparison of the algorithms.
+
+You will turn in your report as a PDF or Word document, along with your python script. The python script should be well commented. In the script, you can remove any identifiable email data. You will be graded on the following criteria: 
+
+Timely submission: 5 pts
+
+Execution and explanation of the two algorithms: 10 pts
+
+Method comparison (the most important part of the report): 15 pts
+
+Overall quality of the report (writing, figures, organization): 10 pts
+
+Extra credit: You will receive 3 extra points if you add an additional algorithm to your analysis
+
+ 
+
+Have fun! Your results might be so good that you may want to implement your own email spam detector on your email.
+
+ 
+
+-Jevin
