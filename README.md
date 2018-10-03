@@ -4,7 +4,7 @@ Assignments from Informatics 371: Core Methods in Data Science (2018) with Jevin
 
 
 ## Assignments
-------------
+
 ### PS1
 Exploratory analysis, data manipulation, visualization of NYC flights dataset.
 
